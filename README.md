@@ -1,3 +1,3 @@
 # studApplication
 frthApplication
-Author Om Shankar Yadav
+Author Om Shankar Chhittan
